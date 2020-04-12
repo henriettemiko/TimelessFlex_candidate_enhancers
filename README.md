@@ -2,7 +2,7 @@
 ## Identifying and clustering of candidate enhancers with TimelessFlex
 
 by Henriette Miko (henriette.miko@mdc-berlin.de), [Ohler lab](
-https://github.com/ohlerlab) at BIMSB/MDC, March 31, 2020
+https://github.com/ohlerlab) at BIMSB/MDC, April 12, 2020
 
 ### Description
 
