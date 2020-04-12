@@ -1,4 +1,5 @@
 # TimelessFlex - Candidate enhancers
+## Identifying and clustering of candidate enhancers
 
 by Henriette Miko (henriette.miko@mdc-berlin.de), [Ohler lab](
 https://github.com/ohlerlab) at BIMSB/MDC, March 31, 2020
